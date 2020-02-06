@@ -6,16 +6,16 @@
     <a href="https://github.com/carlosfab/sigmoidal_ai/issues"><img src="https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat"></a>
 </p>
 
-# Sigmoidal
+# Hugo Victor - DataScience
 
 
 <p align="center">
   <img src="/img/github_cover.png" >
 </p>
 
-Aqui você encontra os *notebooks* e códigos Python do blog Sigmoidal. Cada arquivo deste repositório é parte de um artigo do site. Para conseguir absorver o máximo possível, recomendo você ler também os *posts* do site, para maiores detalhes.
+Aqui você encontra os *notebooks* e códigos Python que criei durante o decorrer dessa jornada de Cientista de Dados. Cada arquivo deste repositório é parte de um artigo do site. Para conseguir absorver o máximo possível, recomendo você ler também os *posts* do site, para maiores detalhes.
 
-**Sigmoidal:** http://sigmoidal.ai
+**Sigmoidal:** Onde tive a oportunidade de estudar e aprender muito. http://sigmoidal.ai
 
 ## Notebooks:
 Veja os tutoriais publicados do Sigmoidal:
