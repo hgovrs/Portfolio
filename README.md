@@ -2,25 +2,15 @@
 # Hugo Victor - Cientista de Dados
 
 
-<p align="center">
-  <img src="/img/github_cover.png" >
-</p>
-
 Aqui você encontra os *notebooks* e códigos Python que criei durante o decorrer dessa jornada de Cientista de Dados. Cada arquivo deste repositório é parte de um artigo do site.
 
 Atualmente cursando o Ciência de Dados na Prática, curso de Carlos Melo, pela : 
 **Sigmoidal:** Onde tive a oportunidade de estudar e aprender muito. http://sigmoidal.ai
 
 ## Notebooks:
-Veja os tutoriais publicados do Sigmoidal:
 
-* **Como usar o Histograma para Data Science:** https://bit.ly/2L2cMwy
-* **Como Implementar Regressão Linear com Python:** https://bit.ly/2Li5pzY
-* **Data Science: Investigando o naufrágio do Titanic:** https://bit.ly/2Ubr5SH
-* **Como Tratar Dados Ausentes com Pandas:** https://bit.ly/31KWSMN
-* **XGBoost: aprenda este algoritmo de Machine Learning em Python:** https://bit.ly/2UbRhws
-* **Como criar uma Wordcloud em Python:** https://bit.ly/2OxsphM
-* **Como lidar com dados desbalanceados:** https://bit.ly/2ZlaNsV
+* **Análise de Dados do Airbnb - Santiago, Chile :** https://bityli.com/GdVbU
+* ***Artigo, como ter experiência em TI sem ter trabalhado na área:*** https://bityli.com/YfkXP
 
 
 
