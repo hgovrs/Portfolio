@@ -24,11 +24,7 @@ Veja os tutoriais publicados do Sigmoidal:
 
 
 
-
-
 ### Sobre mim:
-
-Sou Piloto Militar da Força Aérea Brasileira e Engenheiro de Missão de Satélite no Centro de Operações Espaciais (COPE), em Brasília-DF. Dentro da área de Data Science, tenho desenvolvido projetos de reconhecimento de alvos a partir de imagens de satélites, também dentro do COPE.
 
 * Estudande de Ciência de Dados e aplicativos móveis.
 
