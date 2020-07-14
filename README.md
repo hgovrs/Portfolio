@@ -18,6 +18,16 @@ Atualmente cursando o Ciência de Dados na Prática, curso de Carlos Melo, pela 
 
 * Estudande de Ciência de Dados e aplicativos móveis.
 
+Tenho experiências profissionais nas linguagens:
+- Python;
+- JavaScript;
+- HTML, CSS com bootstrap
+
+e experiências acadêmicas nas linguagens:
+- dart;
+- flutter;
+- python#;
+
 
 
 
